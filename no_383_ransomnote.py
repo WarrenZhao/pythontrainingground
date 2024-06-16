@@ -20,5 +20,5 @@ class Solution:
         return True
         
 s=Solution()
-print(not s.canConstruct("aab", "aab"))
+print(s.canConstruct("aab", "aab"))
                 
